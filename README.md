@@ -5,4 +5,4 @@ Here are a few items you might be looking for:
 2. [Metadata Template with Instructions](https://github.com/InteragencyEcologicalProgram/An-Open-Data-Framework-for-the-San-Francisco-Estuary-/blob/master/Metadata/Metadata%20Template.pdf)
 
 
-Check out our [2019 Data Management Showcase](https://www.youtube.com/watch?v=rgGFogjhePc) and additional resources 
+Check out our [2019 Data Management Showcase](https://www.youtube.com/watch?v=rgGFogjhePc) and [additional resources](https://github.com/InteragencyEcologicalProgram/An-Open-Data-Framework-for-the-San-Francisco-Estuary-/tree/master/Additional%20Resources)
